@@ -20,3 +20,7 @@ We also get the address of a json file and add the content to the array.
 Ex4 :
 In this code, which is written in C# language, 
 it is about a download manager (similar to idm) that downloads using threading.
+
+Ex5 :
+In this code, which is written in C# ,
+communication between a client and a server is considered on the TCP line for file transfer.
