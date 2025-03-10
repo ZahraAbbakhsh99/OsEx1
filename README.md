@@ -24,3 +24,7 @@ it is about a download manager (similar to idm) that downloads using threading.
 Ex5 :
 In this code, which is written in C# ,
 communication between a client and a server is considered on the TCP line for file transfer.
+
+Ex6 :
+In this code, which is written in C# language, 
+we are looking for the synchronization of the threads using Monitor , Lock , Semaphore , Mutex and AutoResetEvent methods.
